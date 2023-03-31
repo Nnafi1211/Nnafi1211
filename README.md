@@ -1,7 +1,8 @@
+![logo](https://faraai.ir/wp-content/uploads/2021/08/7T9364v.gif)
 <h1 align="center">Hi 👋, This is Nomaan</h1>
 <h3 align="center">A deep learning machine learning enthusiast from Bangladesh</h3>
 
-<img align="right" alt="ML" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
+<img align="right" alt="ML" width="250" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
