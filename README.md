@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, This is Nomaan</h1>
 <h3 align="center">A deep learning machine learning enthusiast from Bangladesh</h3>
 
+<img align="right" alt="ML" width="400" src="![image](https://user-images.githubusercontent.com/60933661/229093987-433ffc22-c3c3-4739-88f9-87099f996a78.png)">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-al-nomaan-nafi-7317a7190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-al-nomaan-nafi-7317a7190" height="30" width="40" /></a>
