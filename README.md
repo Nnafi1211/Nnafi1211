@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Nomaan</h1>
 <h3 align="center">A deep learning machine learning enthusiast from Bangladesh</h3>
 
-<img align="right" alt="ML" width="400" src="![image](https://user-images.githubusercontent.com/60933661/229093987-433ffc22-c3c3-4739-88f9-87099f996a78.png)">
+<img align="right" alt="ML" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
