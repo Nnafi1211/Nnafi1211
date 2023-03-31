@@ -1,4 +1,4 @@
-![logo](https://faraai.ir/wp-content/uploads/2021/08/7T9364v.gif)
+<img align="center" alt="ML" width="100%" height="300" src="https://faraai.ir/wp-content/uploads/2021/08/7T9364v.gif">
 <h1 align="center">Hi 👋, This is Nomaan</h1>
 <h3 align="center">A deep learning machine learning enthusiast from Bangladesh</h3>
 
